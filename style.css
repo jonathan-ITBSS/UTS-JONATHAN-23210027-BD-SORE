@@ -1,0 +1,41 @@
+.jumbotron {
+    padding: 2rem 1rem;
+    background-color: rgb(208, 238, 163);
+}
+
+.row1 {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.column1 {
+    border-right-style: solid;
+    padding: 0 300px 0 150px;
+    text-align: center;
+    border-bottom: solid;
+    border-bottom-width: 300%;
+}
+
+.column2 {
+    padding: 0 10rem 0 165px;
+    text-align: center;
+    border-bottom: solid;
+}
+
+.row2 {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.column3 {
+    padding: 0 15rem;
+    text-align: center;
+    border-right-style: solid;
+}
+
+.column4 {
+    text-align: center;
+    padding: 0 10rem;
+}
